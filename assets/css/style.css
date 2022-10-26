@@ -1,0 +1,18 @@
+html {
+    background-color: orange
+}
+
+body {
+    background-color: orange;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    background-color: orange;
+}
